@@ -16,10 +16,8 @@ In this study, K-means and Agglomerative clustering were performed using the mar
 * Plotly
 * Scipy
 
-
-
 ## About the dataset:
-- *marketing_campaign.csv* including data taken from [kaggle](https://www.kaggle.com/rodsaldanha/arketing-campaign)
+>* **marketing_campaign.csv** including data taken from [kaggle](https://www.kaggle.com/rodsaldanha/arketing-campaign)
 
 * ID - unique number
 * Year_Birth - birthyear
